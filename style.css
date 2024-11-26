@@ -1,0 +1,26 @@
+.paragraph {
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.btn {
+    position: absolute;
+    left: 50%;
+}
+
+.btn button {
+    color: blue;
+    border: 5px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    width: 8vw;
+    height: 7vh;
+}
+
+.btn button:hover {
+    background-color: rgb(140, 141, 207);
+}
